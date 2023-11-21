@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m at currently at the beginning of my journey coding. I'm very excited to start bootcamp with School Of Code in September :) 
-- 😄 Pronouns: he/him
+- I am a School of Code bootcamp student in the UK, at the beginning of my journey in tech. I am hoping to start in a new career as Software Developer.
+- 
 
 

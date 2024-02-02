@@ -11,6 +11,12 @@ I am on the lookout for any new opportunities and challenges. If you have any pr
 
   <br>
   
+<p align="center">Link: 
+<a href="https://thomas-vincent.vercel.app/">My Portfolio</a>
+</p>
+
+  <br>
+  
 <h2 align="center">Latest project:</h2>
 
 <p align="center">Link: 
@@ -19,12 +25,12 @@ I am on the lookout for any new opportunities and challenges. If you have any pr
 
 <p>The final project of our bootcamp, a collaborative effort spanning four weeks with a team of six, focused on delivering value to an external stakeholder.
 
-<br>
+  <br>
 
 
 <h2 align="center">Languages and Tools:</h2>
 
-<br>
+  <br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="55" alt="javascript logo"  />
@@ -41,7 +47,7 @@ I am on the lookout for any new opportunities and challenges. If you have any pr
   <img width="12" />
  </div>
     
-<br>
+  <br>
     
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" alt="typescript logo"  />
@@ -58,7 +64,7 @@ I am on the lookout for any new opportunities and challenges. If you have any pr
   <img width="12" />
 </div>
 
-<br>
+  <br>
   
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="github logo"  />
@@ -68,8 +74,8 @@ I am on the lookout for any new opportunities and challenges. If you have any pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="vscode logo"  />
 </div>
 
-<br>
-<br>
+  <br>
+  <br>
 
 <div align="center">
   <a href="https://www.codewars.com/users/tvincent23" target="_blank" rel="noopener noreferrer">
